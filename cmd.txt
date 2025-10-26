@@ -1,0 +1,4 @@
+#in truffle-config.js path run
+truffle compile
+
+#truffle migrate --reset --network development
